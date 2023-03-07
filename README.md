@@ -97,37 +97,46 @@
 
 <br>
 
-<p>
-  <sub>
-    <adress>
-      Icons made by (from <a href="https://www.flaticon.com/br/" target="_blank" title="Flaticon"> www.flaticon.com</a> and <a href="https://icon-icons.com/pt/" target="_blank" title="Icon-Icons">www.icon-icons.com/pt/</a>):
-      <ul>
-        <li><a href="https://www.pngfuel.com/free-png/wmpfw" target="_blank" title="pngfuel">Free-png</a>;</li>
-        <li><a href="https://www.flaticon.com/br/autores/freepik" target="_blank" title="Freepik">Freepik</a>;</li>
-      </ul>
-    </adress>
-  <sub>
-</p>
+<div>
+  <p>
+    <sub>
+      <adress>
+        Icons made by (from <a href="https://www.flaticon.com/br/" target="_blank" title="Flaticon"> www.flaticon.com</a> and <a href="https://icon-icons.com/pt/" target="_blank" title="Icon-Icons">www.icon-icons.com/pt/</a>):
+        <ul>
+          <li><a href="https://www.pngfuel.com/free-png/wmpfw" target="_blank" title="pngfuel">Free-png</a>;</li>
+          <li><a href="https://www.flaticon.com/br/autores/freepik" target="_blank" title="Freepik">Freepik</a>;</li>
+        </ul>
+      </adress>
+    <sub>
+  </p>
+</div>
 
 <br>
 
 <h2><img src="./img/user_guide.png" width=50px/> How to use? </h2>
-<ul>
-  <li> Download the repo and run <code> app.py </code></li>
-  <li> Click on the link that appears in the terminal output </li>
-  <li> In the search bar, add on the end of the URL <code> /Article/*KEYWORD* </code> (to search for a specific keyword) or <code> /AllArticles </code> (to search all articles in the database - around 30 articles).
-  </li>
-</ul>
-  <br>
+<div>
+  <ul>
+    <li> Download the repo and run <code> app.py </code></li>
+    <li> Click on the link that appears in the terminal output </li>
+    <li> In the search bar, add on the end of the URL <code> /Article/*KEYWORD* </code> (to search for a specific keyword) or <code> /AllArticles </code> (to search all articles in the database - around 30 articles).
+    </li>
+  </ul>
+</div>
+
+<br>
 
 <h2><img src="./img/melhorias.png" width=50px/> Improvment opportunities </h2>
+
 <br>
-<p> I didn't have enough time to learn how to:</p>
-  <ul>
-    <li> Implement the input using a configuration file or command line: </li>
-    <li> Improve data access control in BigQuery. </li>
-  </ul>
-<p> I believe these would be the improvements for the next steps. </p>
+
+<div>
+  <p> I didn't have enough time to learn how to:</p>
+    <ul>
+      <li> Implement the input using a configuration file or command line: </li>
+      <li> Improve data access control in BigQuery. </li>
+    </ul>
+  <p> I believe these would be the improvements for the next steps. </p>
+</div>
 
 <br>
 
