@@ -120,9 +120,11 @@
       <li><code> /Article/*KEYWORD* </code>: to search for a specific keyword or;</li>
       <li><code>/AllArticles</code> : to search all articles in the database (around 30 articles)</li>
     </ul>
+  </li>
 </ol>
 
 <h2><img src="./img/melhorias.png" width=50px/> Improvment opportunities </h2>
+<br>
 <p> I didn't have enough time to learn how to:</p>
   <ul>
     <li> Implement the input using a configuration file or command line: </li>
