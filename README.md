@@ -123,7 +123,12 @@
 </ol>
 
 <h2><img src="./img/melhorias.png" width=50px/> Improvment opportunities </h2>
-<p>  </p>
+<p> I didn't have enough time to learn how to:</p>
+  <ul>
+    <li> Implement the input using a configuration file or command line: </li>
+    <li> Improve data access control in BigQuery. </li>
+  </ul>
+<p> I believe these would be the improvements for the next steps. </p>
 
 <br>
 
