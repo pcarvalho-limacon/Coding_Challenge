@@ -116,12 +116,11 @@
   <li> Download the repo and run <code> app.py </code></li>
   <li> Click on the link that appears in the terminal output </li>
   <li> In the search bar, add on the end of the URL:
-    <ul>
-      <li><code> /Article/*KEYWORD* </code>: to search for a specific keyword or;</li>
-      <li><code>/AllArticles</code> : to search all articles in the database (around 30 articles)</li>
-    </ul>
+    <code> /Article/*KEYWORD* </code>: to search for a specific keyword or;
+    <code> /AllArticles </code> : to search all articles in the database (around 30 articles)
   </li>
 </ol>
+  <br>
 
 <h2><img src="./img/melhorias.png" width=50px/> Improvment opportunities </h2>
 <br>
