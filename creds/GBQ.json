@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "vini-project-379618",
+    "private_key_id": "6fcb8707114965e4270d534397a2fc095f61c12e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDM9IRZqrw7KTx6\nEvV5Dxr4JhddLN5rM3zHCeoojwfhQlx9HvysX0ner/3cIrnLjjnSZBQO8wokEQZ+\n5bX4erLfPsRT8Ve1VvYiVMD6zZvflibL/vlLBv2MHcxx10lVKQnaFOuND9QeEY2j\n9JaDUrG0lWjnd8s1m0fQ1akQngLRu1hRiSCgnqlIA8tSsOocxMT2iVp9kmL5gpSh\nubb8fUd+nMa5Dyz7rJuiGzTan9o4qL2JAl+aca6Cls41eo/n3a79rHffousVqLnu\nHKw49oVC23SJzApZNatcZn/VTUCqB+EYUFLGWBjuWXipS7m3ypjgAI0/MX8Nc9o/\ngP45odjhAgMBAAECggEAQxOJVzE+DlymCsu2o8qSSIFq5xceqdX9ccSoamK5MPs/\nesGP7zf2XJebjRaeWOSwvs77E5NuD7S0vAYg4nQBo3eO2GwliNcvkbfMOqjc6TVi\neCP34Zqlk1xTQzSyrtjR/RoYpx91i+uxv+V19v+y4gd+ADcf/ejWfZ3XiXU1Nf80\n6/WSvkwq3Sd8QtXwWul8Ic1TwQE+e9v4j3wb3CPeR+ql+baO76Wegt/gPHFDgKZe\nnrAL7SgPZ1iwp2sew6OdKgCL731Rqul+c6WnAf8xHHx6AAZtJVfEy9gBs+0/GhGa\nrcX3mDwHlQD7lt2NlktHBiqLZjgY+PyE1r0D3OCCowKBgQDoBZPltN49iaio5z6I\nJKyMZbC/C316Qz7eQb9/X35CjeFU7En2ByKcYq7nmBHAUAkBWRdIKNGFAIPc4pit\nb/D4445Gt1/ZPrMzaPeQFKM4194Kf+z9E6E/vKXw07JmEcuursQnVq7nAHJpX4I+\nstS8NoP4kMRqWehPZbktgxw+xwKBgQDiItudMB6gWgoTN0ev2DFYROsi8jdKIPsf\nCdYetnO22r9rnOoQXv3gqbXrRvD//dvehm5pSiGJeJ6yOyaz89RIFaVC+H4pKjzR\nd8IK+g2eDJKSuhU5r9G7VBI0C83wEac4Xp5oprrqYxpkuxVtV9GXibOPqk7w9xtB\nMXkOp2UjFwKBgBsfU8udWgFdjy63YXLuvpDm7kNW54McS0QV8XnFQvAqv7V6raap\n7NzVGFcQSrrtYDAdJwCTbPKcPc3bWzejB0tA5ofTtcuibbZLxey8zNu/OECH9b8b\nxVS7C7bcOFWALQwtd9aVZnqwba9tr77+jqm1wbWTzrIT8nkdjgkI84tPAoGBALxU\nM3oxfRAmbIWcYEN+VXohy4ILHyjJVtp+oqhpYu1COHEy+Www8FaOgEc1ibhofxhP\n9NwTNOL8ZY4h3RW5V23BOSURNmCqIISCrEPgBD9AUUGJX+vvFUhht9dIjXYF/bHg\neyTE1p4lcvG5LRsnLBJ8R+K5/4yG/1fID/24Q255AoGAOoVtdz7llSudVogl7RmB\n9SOi92ptqW6kDK5skKpI3jUURZ6LO601BiqbLS/8dIaQi0kWnCSR2yfq0wiT/Fzq\nsTcrUykehGdGHCaC2qBUkayVjHLKCozI95XYRzfnFXfmGqcLQlhNDIF+oX2Mf63S\n4WYelgPPeQV/WiO5EZ1pzfk=\n-----END PRIVATE KEY-----\n",
+    "client_email": "vini-service-account@vini-project-379618.iam.gserviceaccount.com",
+    "client_id": "109059894032601695282",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vini-service-account%40vini-project-379618.iam.gserviceaccount.com"
+  }
+  
