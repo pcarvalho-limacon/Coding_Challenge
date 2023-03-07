@@ -111,6 +111,22 @@
 
 <br>
 
+<h2><img src="./img/user_guide.png" width=50px/> How to use? </h2>
+<ol>
+  <li> Download the repo and run <code> app.py </code></li>
+  <li> Click on the link that appears in the terminal output </li>
+  <li> In the search bar, add on the end of the URL:
+    <ul>
+      <li><code> /Article/*KEYWORD* </code>: to search for a specific keyword or;</li>
+      <li><code>/AllArticles</code> : to search all articles in the database (around 30 articles)</li>
+    </ul>
+</ol>
+
+<h2><img src="./img/melhorias.png" width=50px/> Improvment opportunities </h2>
+<p>  </p>
+
+<br>
+
 <h2><img src="./img/autor.svg" width=50px/> Autor </h2>
 
 <a href="https://www.linkedin.com/in/vini-antunes/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="140px;" alt="foto do autor"/>
