@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+api\__pycache__
+api\functions\__pycache__
+crawler\__pycache__
+creds\__pycache__
